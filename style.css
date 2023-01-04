@@ -1,0 +1,44 @@
+.odin {
+  font-size: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+.title {
+  text-align: left;
+}
+
+img {
+  height: auto;
+  width: 300px;
+}
+
+.ingredients {
+  font-weight: bold;
+}
+
+.home {
+  font-size: 20px;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+}
+
+.index {
+  font-size: 50px;
+  text-align: center;
+}
+
+.homeimage {
+  height: auto;
+  width: 200px;
+}
+
+div.item {
+  vertical-align: top;
+  text-align: center;
+}
